@@ -11,15 +11,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Choose your Pokémon
 
 
-<img align="center" height="100%" width="100%" src="./telaPokedex.png" alt="prtscr">
+<img align="center" height="50%" width="50%" src="./assets/telaPokedex.png" alt="prtscr">
 
 ## I Choose you!
 
-<img align="center" height="100%" width="100%" src="./cardPokedex.png" alt="prtscr">
+<img align="center" height="50%" width="50%" src="./cardPokedex.png" alt="prtscr">
 
 ## Gif
 
-![Screen](./gifscreen.gif)
+![Screen](src/assets/gifscreen.gif)
 
 
 
