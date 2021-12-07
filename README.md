@@ -11,11 +11,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Choose your Pokémon
 
 
-<img align="center" height="50%" width="50%" src="./assets/telaPokedex.png" alt="prtscr">
+<img align="center" height="50%" width="50%" src="./telaPokedex.jpg" alt="prtscr">
 
 ## I Choose you!
 
-<img align="center" height="50%" width="50%" src="./cardPokedex.png" alt="prtscr">
+<img align="center" height="50%" width="50%" src="./cardPokedex.jpg" alt="prtscr">
 
 ## Gif
 
