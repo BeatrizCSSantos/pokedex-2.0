@@ -2,6 +2,7 @@
 
 $padding: rem-calc(20);
 :host {
+  .listagem {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -19,6 +20,9 @@ $padding: rem-calc(20);
     padding: $padding;
 
     border-radius: rem-calc(10);
+
+    text-decoration: none;
+    color: var(--primary-color);
 
     &__status {
       h2 {
@@ -67,5 +71,6 @@ $padding: rem-calc(20);
         width: rem-calc(60);
       }
     }
+  }
   }
 }
