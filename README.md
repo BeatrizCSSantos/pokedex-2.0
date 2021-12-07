@@ -11,11 +11,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Choose your Pokémon
 
 
-![seach](/home/beatriz/Projects_Ang/angular/pokedex/src/assets/telaPokedex.jpg)
+![seach](src/assets/telaPokedex.jpg)
 
 ## I Choose you!
 
-![Cards](/home/beatriz/Projects_Ang/angular/pokedex/src/assets/cardPokedex.jpg)
+![Cards](src/assets/cardPokedex.jpg)
 
 ## Gif
 
